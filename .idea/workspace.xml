@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0fe6785-f5fd-4d1c-b269-ce03e32eaca2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/str_arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Immutability.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -17,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="200">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/String_Immutability.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -60,6 +69,7 @@
         <option value="$PROJECT_DIR$/Concatenating.js" />
         <option value="$PROJECT_DIR$/str_arr.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/String_Immutability.js" />
       </list>
     </option>
   </component>
@@ -112,7 +122,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.str_arr.js">
+  <component name="RunManager" selected="Node.js.String_Immutability.js">
+    <configuration name="String_Immutability.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="String_Immutability.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="comparison.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="comparison.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -124,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.String_Immutability.js" />
         <item itemvalue="Node.js.str_arr.js" />
         <item itemvalue="Node.js.comparison.js" />
         <item itemvalue="Node.js.hello_world.js" />
@@ -142,7 +156,7 @@
       <updated>1558085513583</updated>
       <workItem from="1558085517126" duration="5921000" />
       <workItem from="1558116969314" duration="1181000" />
-      <workItem from="1558210798316" duration="2097000" />
+      <workItem from="1558210798316" duration="2453000" />
     </task>
     <task id="LOCAL-00001" summary="Comment Out">
       <created>1558091009371</created>
@@ -162,14 +176,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9199000" />
+    <option name="totallyTimeSpent" value="9555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32935917" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -177,7 +191,7 @@
       <window_info anchor="bottom" id="Docker" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.40983605" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.40983605" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -236,8 +250,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="200">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String_Immutability.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
