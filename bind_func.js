@@ -5,6 +5,6 @@
       }
   };
    let newCar = { carID: 456}; // new car object
-   let newFn = o.getId.bind(newCar); // copy getID and input new value from newCar
+   let newFn = anyVar.getId.bind(newCar); // copy getID and input new value from newCar
   // now all store in newFN variable
   console.log(newFn());
