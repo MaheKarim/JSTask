@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0fe6785-f5fd-4d1c-b269-ce03e32eaca2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bind_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/bind_func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contruct_func.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,11 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bind_func.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contruct_func.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -112,6 +122,7 @@
         <option value="$PROJECT_DIR$/scope_.js" />
         <option value="$PROJECT_DIR$/IIFE.js" />
         <option value="$PROJECT_DIR$/bind_func.js" />
+        <option value="$PROJECT_DIR$/contruct_func.js" />
       </list>
     </option>
   </component>
@@ -172,17 +183,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.bind_func.js">
+  <component name="RunManager" selected="Node.js.contruct_func.js">
     <configuration name="IIFE.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="IIFE.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="bind_func.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="bind_func.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="function_scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="function_scope.js" working-dir="$PROJECT_DIR$">
+    <configuration name="contruct_func.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="contruct_func.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="primitive_value.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="primitive_value.js" working-dir="D:/Xammp/htdocs/JS/JSTask">
+    <configuration name="function_scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="function_scope.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="scope_.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="scope_.js" working-dir="$PROJECT_DIR$">
@@ -190,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.contruct_func.js" />
         <item itemvalue="Node.js.bind_func.js" />
         <item itemvalue="Node.js.IIFE.js" />
         <item itemvalue="Node.js.scope_.js" />
         <item itemvalue="Node.js.function_scope.js" />
-        <item itemvalue="Node.js.primitive_value.js" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +225,7 @@
       <workItem from="1558248459510" duration="297000" />
       <workItem from="1558248821166" duration="2604000" />
       <workItem from="1558259610769" duration="34000" />
-      <workItem from="1558368720650" duration="6506000" />
+      <workItem from="1558368720650" duration="7830000" />
     </task>
     <task id="LOCAL-00001" summary="Comment Out">
       <created>1558091009371</created>
@@ -234,7 +245,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19189000" />
+    <option name="totallyTimeSpent" value="20513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -362,8 +373,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bind_func.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="238">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contruct_func.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
