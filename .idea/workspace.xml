@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0fe6785-f5fd-4d1c-b269-ce03e32eaca2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/function_scope.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/function_scope.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -72,6 +82,7 @@
         <option value="$PROJECT_DIR$/illegal_manipulation.js" />
         <option value="D:/Xammp/htdocs/JS/JSTask/primitive_value.js" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
+        <option value="$PROJECT_DIR$/function_scope.js" />
       </list>
     </option>
   </component>
@@ -81,7 +92,9 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -93,11 +106,6 @@
             <path>
               <item name="JSTask" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSTask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSTask" type="462c0819:PsiDirectoryNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,11 +143,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.primitive_value.js">
+  <component name="RunManager" selected="Node.js.function_scope.js">
     <configuration name="Bracket_Notation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Bracket_Notation.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="String_Immutability.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="String_Immutability.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="function_scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="function_scope.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="illegal_manipulation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="illegal_manipulation.js" working-dir="$PROJECT_DIR$">
@@ -148,16 +159,13 @@
     <configuration name="primitive_value.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="primitive_value.js" working-dir="D:/Xammp/htdocs/JS/JSTask">
       <method v="2" />
     </configuration>
-    <configuration name="str_arr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="str_arr.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.function_scope.js" />
         <item itemvalue="Node.js.primitive_value.js" />
         <item itemvalue="Node.js.illegal_manipulation.js" />
         <item itemvalue="Node.js.Bracket_Notation.js" />
         <item itemvalue="Node.js.String_Immutability.js" />
-        <item itemvalue="Node.js.str_arr.js" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +185,7 @@
       <workItem from="1558248459510" duration="297000" />
       <workItem from="1558248821166" duration="2604000" />
       <workItem from="1558259610769" duration="34000" />
-      <workItem from="1558368720650" duration="807000" />
+      <workItem from="1558368720650" duration="2918000" />
     </task>
     <task id="LOCAL-00001" summary="Comment Out">
       <created>1558091009371</created>
@@ -197,21 +205,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13490000" />
+    <option name="totallyTimeSpent" value="15601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.46795827" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.46795827" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.40983605" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.40983605" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -296,7 +306,14 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_scope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
         </state>
       </provider>
     </entry>
