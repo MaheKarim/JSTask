@@ -7,7 +7,7 @@
 
    function Bike(id) {
        this.bikeID = id; // bikeID diye dhorlam parameter ke
-       this.start = function(myZam){
+       this.start = function(myZam){ // {this} keyword access the object
            //this.anyApps = myZam; // no use of myZam parameter
        console.log('This Is From start: ' + this.bikeID);
        };
